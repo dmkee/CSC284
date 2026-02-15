@@ -10,7 +10,7 @@ This program will be downloaded by class members of CSC284 and
 
 classList=[
 'Joel Moore'
-
+'Devon Kee'
 ]
 
 print(f'\nClass List for CSC284 Spring 2026 ')
